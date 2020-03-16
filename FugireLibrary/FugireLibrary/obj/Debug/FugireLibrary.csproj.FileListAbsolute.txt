@@ -1,0 +1,6 @@
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\bin\Debug\FugireLibrary.dll
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\bin\Debug\FugireLibrary.pdb
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\obj\Debug\FugireLibrary.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\obj\Debug\FugireLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\obj\Debug\FugireLibrary.dll
+C:\Users\Максим\source\repos\FugireLibrary\FugireLibrary\obj\Debug\FugireLibrary.pdb

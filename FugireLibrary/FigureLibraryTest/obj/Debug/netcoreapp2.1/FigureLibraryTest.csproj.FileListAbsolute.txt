@@ -1,0 +1,17 @@
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FigureLibraryTest.deps.json
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FigureLibraryTest.runtimeconfig.json
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FigureLibraryTest.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FigureLibraryTest.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FigureLibraryTest.pdb
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FugireLibrary.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\bin\Debug\netcoreapp2.1\FugireLibrary.pdb
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.AssemblyInfo.cs
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.csproj.CopyComplete
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.dll
+C:\Users\Максим\source\repos\FugireLibrary\FigureLibraryTest\obj\Debug\netcoreapp2.1\FigureLibraryTest.pdb
